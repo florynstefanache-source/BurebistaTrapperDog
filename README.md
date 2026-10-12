@@ -4,7 +4,7 @@
 
 [Descargar / Download](https://github.com/florynstefanache-source/BurebistaTrapperDog/releases/latest) · [English](#english)
 
-![Burebista Trapper Dog](images/preview.png)
+![Burebista Trapper Dog](images/preview.jpg)
 
 Vista del recurso visual incluido en el mod / Preview of the visual asset included with the mod.
 
